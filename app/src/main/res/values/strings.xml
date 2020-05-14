@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Covid-19</string>
+    <string name="channel_name">CHANNEL_NAME</string>
+    <string name="channel_description">CHANNEL_DESCRIPTION</string>
+</resources>
